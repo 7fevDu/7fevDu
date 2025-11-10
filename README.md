@@ -8,7 +8,7 @@ Hi, I'm Eduardo Corrêa! 👋
 
 ### 🛠️ Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,sqlite,aws,azure,git,github,vscode,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,mysql,aws,azure,github,gcp" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </p>
 
