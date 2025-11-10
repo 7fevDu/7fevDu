@@ -5,11 +5,16 @@ Hi, I'm Eduardo Corrêa! 👋
 🚀 Seeking opportunities to grow, learn, and contribute in the field of Data Science by transforming data into meaningful insights and intelligent solutions.  
 
 ---
-
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,postgresql,aws,azure,git,github,linux,docker,vscode,spark,hadoop" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,postgresql,aws,azure,git,github,linux,docker,vscode" />
+</p>
+
+#### 🧠 Big Data
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 </p>
 
 
