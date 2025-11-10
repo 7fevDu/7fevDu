@@ -9,8 +9,9 @@ Hi, I'm Eduardo Corrêa! 👋
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,postgresql,aws,azure,git,github,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,postgresql,aws,azure,git,github,linux,docker,vscode,spark,hadoop" />
 </p>
+
 
 ---
 
