@@ -1,21 +1,17 @@
 Hi, I'm Eduardo Corrêa! 👋  
 
-🧠 I am a Data Scientist passionate about solving complex problems and delivering impactful, data-driven solutions.  
-🎓 Graduated in Data Science at FIAP.  
-🚀 Seeking opportunities to grow, learn, and contribute in the field of Data Science by transforming data into meaningful insights and intelligent solutions.  
+- 🧠 I am a Data Scientist passionate about solving complex problems and delivering impactful, data-driven solutions.  
+- 🎓 Graduated in Data Science at FIAP.  
+- 🚀 Seeking opportunities to grow, learn, and contribute in the field of Data Science by transforming data into meaningful insights and intelligent solutions.  
 
 ---
-### 🛠️ Technologies & Tools
-
+###  Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,postgresql,aws,azure,git,github,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,sqlite,aws,azure,git,github,vscode,gcp" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </p>
 
-#### 🧠 Big Data
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-</p>
+
 
 
 ---
